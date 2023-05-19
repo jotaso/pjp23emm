@@ -1,0 +1,6050 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<fet version="6.9.0">
+
+<Mode>Official</Mode>
+
+<Institution_Name>PJP</Institution_Name>
+
+<Comments>Seus comentários</Comments>
+
+<Days_List>
+<Number_of_Days>5</Number_of_Days>
+<Day>
+	<Name>Segunda-feira</Name>
+</Day>
+<Day>
+	<Name>Terça-feira</Name>
+</Day>
+<Day>
+	<Name>Quarta-feira</Name>
+</Day>
+<Day>
+	<Name>Quinta-feira</Name>
+</Day>
+<Day>
+	<Name>Sexta-feira</Name>
+</Day>
+</Days_List>
+
+<Hours_List>
+<Number_of_Hours>10</Number_of_Hours>
+<Hour>
+	<Name>14:25 - 15:10</Name>
+</Hour>
+<Hour>
+	<Name>15:10 - 15:55</Name>
+</Hour>
+<Hour>
+	<Name>15:55 - 16:40</Name>
+</Hour>
+<Hour>
+	<Name>16:40 - 16:55</Name>
+</Hour>
+<Hour>
+	<Name>16:55 - 17:40</Name>
+</Hour>
+<Hour>
+	<Name>17:40 - 18:25</Name>
+</Hour>
+<Hour>
+	<Name>18:25 - 19:10</Name>
+</Hour>
+<Hour>
+	<Name>19:10 - 19:55</Name>
+</Hour>
+<Hour>
+	<Name>19:55 - 20:40</Name>
+</Hour>
+<Hour>
+	<Name>20:40 - 21:25</Name>
+</Hour>
+</Hours_List>
+
+<Subjects_List>
+<Subject>
+	<Name>L. Portuguesa</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Arte</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Ed. Fisica</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>História</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Geografia</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Matemática</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Ciências</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Inglês</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Orientação</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Protagonismo</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Práticas Exp.</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>P. de Vida</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Eletivas</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Tecnologias</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Filosofia</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Sociologia</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Fisica</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Quimica</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Biologia</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Água</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Energias</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Estatistica</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Zoonoses</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Cultura</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Diálogos</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Lutas</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Povo B.</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Tradições</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Biodiversidade</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Funções</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Luz e Tec</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Tec e Amb.</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Cartografia</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Esportes R.</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Preservação</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Processos</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Cálculo</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Mineração</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Movimento Mecânico</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Pegada Ecológica</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Cidadania</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Narrativas</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Núcleo de Estudos</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Oralidade e produção</Name>
+	<Comments></Comments>
+</Subject>
+</Subjects_List>
+
+<Activity_Tags_List>
+</Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>Antonio</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Claudinete</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Décio</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Emanuel</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Francielli</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Giliard</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>J. Marcos</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Josemar</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Marilena</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Patricia B.</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Paulo</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Renato</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Valentina</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Verginia</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>1ª Série A</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+	<Number_of_Categories>0</Number_of_Categories>
+	<Separator> </Separator>
+</Year>
+<Year>
+	<Name>1ª Série B</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+	<Number_of_Categories>0</Number_of_Categories>
+	<Separator> </Separator>
+</Year>
+<Year>
+	<Name>2ª Série A</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+	<Number_of_Categories>0</Number_of_Categories>
+	<Separator> </Separator>
+</Year>
+<Year>
+	<Name>2ª Série B</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+	<Number_of_Categories>0</Number_of_Categories>
+	<Separator> </Separator>
+</Year>
+<Year>
+	<Name>3ª Série A</Name>
+	<Number_of_Students>0</Number_of_Students>
+	<Comments></Comments>
+	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+	<Number_of_Categories>0</Number_of_Categories>
+	<Separator> </Separator>
+</Year>
+</Students_List>
+
+<Activities_List>
+<Activity>
+	<Teacher>Décio</Teacher>
+	<Subject>L. Portuguesa</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>11</Id>
+	<Activity_Group_Id>11</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Décio</Teacher>
+	<Subject>L. Portuguesa</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>12</Id>
+	<Activity_Group_Id>11</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Décio</Teacher>
+	<Subject>L. Portuguesa</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>13</Id>
+	<Activity_Group_Id>11</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Subject>L. Portuguesa</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>14</Id>
+	<Activity_Group_Id>14</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Subject>L. Portuguesa</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>15</Id>
+	<Activity_Group_Id>14</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Subject>L. Portuguesa</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>16</Id>
+	<Activity_Group_Id>14</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Subject>L. Portuguesa</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>17</Id>
+	<Activity_Group_Id>17</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Subject>L. Portuguesa</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>18</Id>
+	<Activity_Group_Id>17</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Francielli</Teacher>
+	<Subject>Arte</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>19</Id>
+	<Activity_Group_Id>19</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Francielli</Teacher>
+	<Subject>Arte</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>20</Id>
+	<Activity_Group_Id>19</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Francielli</Teacher>
+	<Subject>Arte</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>21</Id>
+	<Activity_Group_Id>21</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Francielli</Teacher>
+	<Subject>Arte</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>22</Id>
+	<Activity_Group_Id>21</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Francielli</Teacher>
+	<Subject>Arte</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>23</Id>
+	<Activity_Group_Id>23</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Francielli</Teacher>
+	<Subject>Arte</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>24</Id>
+	<Activity_Group_Id>23</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>Ed. Fisica</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>25</Id>
+	<Activity_Group_Id>25</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>Ed. Fisica</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>26</Id>
+	<Activity_Group_Id>25</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>Ed. Fisica</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>27</Id>
+	<Activity_Group_Id>27</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>Ed. Fisica</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>28</Id>
+	<Activity_Group_Id>27</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>Ed. Fisica</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>29</Id>
+	<Activity_Group_Id>29</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>Ed. Fisica</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>30</Id>
+	<Activity_Group_Id>29</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Giliard</Teacher>
+	<Subject>História</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>31</Id>
+	<Activity_Group_Id>31</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Giliard</Teacher>
+	<Subject>História</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>32</Id>
+	<Activity_Group_Id>31</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Giliard</Teacher>
+	<Subject>História</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>33</Id>
+	<Activity_Group_Id>33</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Giliard</Teacher>
+	<Subject>História</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>34</Id>
+	<Activity_Group_Id>33</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Patricia B.</Teacher>
+	<Subject>História</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>35</Id>
+	<Activity_Group_Id>35</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Patricia B.</Teacher>
+	<Subject>História</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>36</Id>
+	<Activity_Group_Id>35</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>História</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>37</Id>
+	<Activity_Group_Id>37</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>História</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>38</Id>
+	<Activity_Group_Id>37</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Patricia B.</Teacher>
+	<Subject>Geografia</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>39</Id>
+	<Activity_Group_Id>39</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Patricia B.</Teacher>
+	<Subject>Geografia</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>40</Id>
+	<Activity_Group_Id>39</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Patricia B.</Teacher>
+	<Subject>Geografia</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>41</Id>
+	<Activity_Group_Id>41</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Patricia B.</Teacher>
+	<Subject>Geografia</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>42</Id>
+	<Activity_Group_Id>41</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Patricia B.</Teacher>
+	<Subject>Geografia</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>43</Id>
+	<Activity_Group_Id>43</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Patricia B.</Teacher>
+	<Subject>Geografia</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>44</Id>
+	<Activity_Group_Id>43</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Patricia B.</Teacher>
+	<Subject>Geografia</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>45</Id>
+	<Activity_Group_Id>45</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Patricia B.</Teacher>
+	<Subject>Geografia</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>46</Id>
+	<Activity_Group_Id>45</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Verginia</Teacher>
+	<Teacher>Paulo</Teacher>
+	<Subject>Orientação</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>65</Id>
+	<Activity_Group_Id>65</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Verginia</Teacher>
+	<Teacher>Paulo</Teacher>
+	<Subject>Orientação</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>66</Id>
+	<Activity_Group_Id>65</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Verginia</Teacher>
+	<Teacher>Paulo</Teacher>
+	<Subject>Orientação</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>67</Id>
+	<Activity_Group_Id>65</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Francielli</Teacher>
+	<Subject>Orientação</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>68</Id>
+	<Activity_Group_Id>68</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Francielli</Teacher>
+	<Subject>Orientação</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>69</Id>
+	<Activity_Group_Id>68</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Francielli</Teacher>
+	<Subject>Orientação</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>70</Id>
+	<Activity_Group_Id>68</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Claudinete</Teacher>
+	<Subject>Orientação</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>71</Id>
+	<Activity_Group_Id>71</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Claudinete</Teacher>
+	<Subject>Orientação</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>72</Id>
+	<Activity_Group_Id>71</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Verginia</Teacher>
+	<Subject>Orientação</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>73</Id>
+	<Activity_Group_Id>73</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Verginia</Teacher>
+	<Subject>Orientação</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>74</Id>
+	<Activity_Group_Id>73</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Marilena</Teacher>
+	<Subject>Orientação</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>75</Id>
+	<Activity_Group_Id>75</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Marilena</Teacher>
+	<Subject>Orientação</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>76</Id>
+	<Activity_Group_Id>75</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Marilena</Teacher>
+	<Subject>Orientação</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>77</Id>
+	<Activity_Group_Id>75</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Subject>Inglês</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>78</Id>
+	<Activity_Group_Id>78</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Subject>Inglês</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>79</Id>
+	<Activity_Group_Id>78</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Subject>Inglês</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>80</Id>
+	<Activity_Group_Id>80</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Subject>Inglês</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>81</Id>
+	<Activity_Group_Id>80</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Subject>Inglês</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>82</Id>
+	<Activity_Group_Id>82</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Subject>Inglês</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>83</Id>
+	<Activity_Group_Id>82</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Paulo</Teacher>
+	<Subject>Biologia</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>84</Id>
+	<Activity_Group_Id>84</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Paulo</Teacher>
+	<Subject>Biologia</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>85</Id>
+	<Activity_Group_Id>84</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Paulo</Teacher>
+	<Subject>Biologia</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>86</Id>
+	<Activity_Group_Id>86</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Paulo</Teacher>
+	<Subject>Biologia</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>87</Id>
+	<Activity_Group_Id>86</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Paulo</Teacher>
+	<Subject>Biologia</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>88</Id>
+	<Activity_Group_Id>88</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Paulo</Teacher>
+	<Subject>Biologia</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>89</Id>
+	<Activity_Group_Id>88</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Paulo</Teacher>
+	<Subject>Biologia</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>90</Id>
+	<Activity_Group_Id>90</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Paulo</Teacher>
+	<Subject>Biologia</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>91</Id>
+	<Activity_Group_Id>90</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Verginia</Teacher>
+	<Subject>Fisica</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>92</Id>
+	<Activity_Group_Id>92</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Verginia</Teacher>
+	<Subject>Fisica</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>93</Id>
+	<Activity_Group_Id>92</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Verginia</Teacher>
+	<Subject>Fisica</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>94</Id>
+	<Activity_Group_Id>94</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Verginia</Teacher>
+	<Subject>Fisica</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>95</Id>
+	<Activity_Group_Id>94</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Verginia</Teacher>
+	<Subject>Fisica</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>96</Id>
+	<Activity_Group_Id>96</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Verginia</Teacher>
+	<Subject>Fisica</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>97</Id>
+	<Activity_Group_Id>96</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Verginia</Teacher>
+	<Subject>Fisica</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>98</Id>
+	<Activity_Group_Id>98</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Verginia</Teacher>
+	<Subject>Fisica</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>99</Id>
+	<Activity_Group_Id>98</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>J. Marcos</Teacher>
+	<Subject>Quimica</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100</Id>
+	<Activity_Group_Id>100</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>J. Marcos</Teacher>
+	<Subject>Quimica</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>101</Id>
+	<Activity_Group_Id>100</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>J. Marcos</Teacher>
+	<Subject>Quimica</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>102</Id>
+	<Activity_Group_Id>102</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>J. Marcos</Teacher>
+	<Subject>Quimica</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>103</Id>
+	<Activity_Group_Id>102</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>J. Marcos</Teacher>
+	<Subject>Quimica</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>104</Id>
+	<Activity_Group_Id>104</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>J. Marcos</Teacher>
+	<Subject>Quimica</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>105</Id>
+	<Activity_Group_Id>104</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>J. Marcos</Teacher>
+	<Subject>Quimica</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>106</Id>
+	<Activity_Group_Id>106</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>J. Marcos</Teacher>
+	<Subject>Quimica</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>107</Id>
+	<Activity_Group_Id>106</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>Filosofia</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>108</Id>
+	<Activity_Group_Id>108</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>Filosofia</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>109</Id>
+	<Activity_Group_Id>108</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>Filosofia</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>110</Id>
+	<Activity_Group_Id>110</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>Filosofia</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>111</Id>
+	<Activity_Group_Id>110</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>Filosofia</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>112</Id>
+	<Activity_Group_Id>112</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>Filosofia</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>113</Id>
+	<Activity_Group_Id>112</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>Filosofia</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>114</Id>
+	<Activity_Group_Id>114</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>Filosofia</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>115</Id>
+	<Activity_Group_Id>114</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>Sociologia</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>116</Id>
+	<Activity_Group_Id>116</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>Sociologia</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>117</Id>
+	<Activity_Group_Id>116</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>Sociologia</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>118</Id>
+	<Activity_Group_Id>118</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>Sociologia</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>119</Id>
+	<Activity_Group_Id>118</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>Sociologia</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>120</Id>
+	<Activity_Group_Id>120</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>Sociologia</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>121</Id>
+	<Activity_Group_Id>120</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>Sociologia</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>122</Id>
+	<Activity_Group_Id>122</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>Sociologia</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>123</Id>
+	<Activity_Group_Id>122</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>P. de Vida</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>124</Id>
+	<Activity_Group_Id>124</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>P. de Vida</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>125</Id>
+	<Activity_Group_Id>124</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>P. de Vida</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>126</Id>
+	<Activity_Group_Id>126</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>P. de Vida</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>127</Id>
+	<Activity_Group_Id>126</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>P. de Vida</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>128</Id>
+	<Activity_Group_Id>128</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>P. de Vida</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>129</Id>
+	<Activity_Group_Id>128</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>P. de Vida</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>130</Id>
+	<Activity_Group_Id>130</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>P. de Vida</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>131</Id>
+	<Activity_Group_Id>130</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>P. de Vida</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>132</Id>
+	<Activity_Group_Id>132</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>P. de Vida</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>133</Id>
+	<Activity_Group_Id>132</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Teacher>Emanuel</Teacher>
+	<Subject>Eletivas</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>134</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Paulo</Teacher>
+	<Teacher>Renato</Teacher>
+	<Subject>Eletivas</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>135</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Francielli</Teacher>
+	<Teacher>J. Marcos</Teacher>
+	<Subject>Eletivas</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>136</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Francielli</Teacher>
+	<Subject>Tecnologias</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>137</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Francielli</Teacher>
+	<Subject>Tecnologias</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>138</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Francielli</Teacher>
+	<Subject>Tecnologias</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>139</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Francielli</Teacher>
+	<Subject>Tecnologias</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>140</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Francielli</Teacher>
+	<Subject>Tecnologias</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>141</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>Ed. Fisica</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>142</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>Ed. Fisica</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>143</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Claudinete</Teacher>
+	<Subject>Inglês</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>144</Id>
+	<Activity_Group_Id>144</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Claudinete</Teacher>
+	<Subject>Inglês</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>145</Id>
+	<Activity_Group_Id>144</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Décio</Teacher>
+	<Subject>Inglês</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>146</Id>
+	<Activity_Group_Id>146</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Décio</Teacher>
+	<Subject>Inglês</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>147</Id>
+	<Activity_Group_Id>146</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Paulo</Teacher>
+	<Subject>Zoonoses</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>154</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>Lutas</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>173</Id>
+	<Activity_Group_Id>173</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Subject>Lutas</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>174</Id>
+	<Activity_Group_Id>173</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Francielli</Teacher>
+	<Subject>Tradições</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>175</Id>
+	<Activity_Group_Id>175</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Francielli</Teacher>
+	<Subject>Tradições</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>176</Id>
+	<Activity_Group_Id>175</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Verginia</Teacher>
+	<Teacher>Emanuel</Teacher>
+	<Subject>Estatistica</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>182</Id>
+	<Activity_Group_Id>182</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Verginia</Teacher>
+	<Teacher>Emanuel</Teacher>
+	<Subject>Estatistica</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>183</Id>
+	<Activity_Group_Id>182</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Paulo</Teacher>
+	<Teacher>Patricia B.</Teacher>
+	<Subject>Biodiversidade</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>186</Id>
+	<Activity_Group_Id>186</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Paulo</Teacher>
+	<Teacher>Patricia B.</Teacher>
+	<Subject>Biodiversidade</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>187</Id>
+	<Activity_Group_Id>186</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Renato</Teacher>
+	<Teacher>Verginia</Teacher>
+	<Subject>Funções</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>188</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>J. Marcos</Teacher>
+	<Subject>Água</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>189</Id>
+	<Activity_Group_Id>189</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>J. Marcos</Teacher>
+	<Subject>Água</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>190</Id>
+	<Activity_Group_Id>189</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>J. Marcos</Teacher>
+	<Subject>Energias</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>191</Id>
+	<Activity_Group_Id>191</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>J. Marcos</Teacher>
+	<Subject>Energias</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>192</Id>
+	<Activity_Group_Id>191</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>Cultura</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>193</Id>
+	<Activity_Group_Id>193</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Subject>Cultura</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>194</Id>
+	<Activity_Group_Id>193</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Subject>Diálogos</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>195</Id>
+	<Activity_Group_Id>195</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Subject>Diálogos</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>196</Id>
+	<Activity_Group_Id>195</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Patricia B.</Teacher>
+	<Subject>Povo B.</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>197</Id>
+	<Activity_Group_Id>197</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Patricia B.</Teacher>
+	<Subject>Povo B.</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>198</Id>
+	<Activity_Group_Id>197</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>J. Marcos</Teacher>
+	<Teacher>Francielli</Teacher>
+	<Subject>Luz e Tec</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>199</Id>
+	<Activity_Group_Id>199</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>J. Marcos</Teacher>
+	<Teacher>Francielli</Teacher>
+	<Subject>Luz e Tec</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>200</Id>
+	<Activity_Group_Id>199</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>J. Marcos</Teacher>
+	<Teacher>Antonio</Teacher>
+	<Subject>Tec e Amb.</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>201</Id>
+	<Activity_Group_Id>201</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>J. Marcos</Teacher>
+	<Teacher>Antonio</Teacher>
+	<Subject>Tec e Amb.</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>202</Id>
+	<Activity_Group_Id>201</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Valentina</Teacher>
+	<Teacher>Verginia</Teacher>
+	<Subject>Cálculo</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>203</Id>
+	<Activity_Group_Id>203</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Valentina</Teacher>
+	<Teacher>Verginia</Teacher>
+	<Subject>Cálculo</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>204</Id>
+	<Activity_Group_Id>203</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Paulo</Teacher>
+	<Teacher>Patricia B.</Teacher>
+	<Subject>Mineração</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>205</Id>
+	<Activity_Group_Id>205</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Paulo</Teacher>
+	<Teacher>Patricia B.</Teacher>
+	<Subject>Mineração</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>206</Id>
+	<Activity_Group_Id>205</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>J. Marcos</Teacher>
+	<Teacher>Josemar</Teacher>
+	<Subject>Movimento Mecânico</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>207</Id>
+	<Activity_Group_Id>207</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>J. Marcos</Teacher>
+	<Teacher>Josemar</Teacher>
+	<Subject>Movimento Mecânico</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>208</Id>
+	<Activity_Group_Id>207</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Teacher>J. Marcos</Teacher>
+	<Subject>Pegada Ecológica</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>209</Id>
+	<Activity_Group_Id>209</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Antonio</Teacher>
+	<Teacher>J. Marcos</Teacher>
+	<Subject>Pegada Ecológica</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>210</Id>
+	<Activity_Group_Id>209</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Subject>L. Portuguesa</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>217</Id>
+	<Activity_Group_Id>217</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Subject>L. Portuguesa</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>218</Id>
+	<Activity_Group_Id>217</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Subject>L. Portuguesa</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>219</Id>
+	<Activity_Group_Id>217</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Subject>L. Portuguesa</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>220</Id>
+	<Activity_Group_Id>220</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Subject>L. Portuguesa</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>221</Id>
+	<Activity_Group_Id>220</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Josemar</Teacher>
+	<Subject>L. Portuguesa</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>222</Id>
+	<Activity_Group_Id>220</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Emanuel</Teacher>
+	<Subject>Matemática</Subject>
+	<Students>3ª Série A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>223</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Emanuel</Teacher>
+	<Subject>Matemática</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>224</Id>
+	<Activity_Group_Id>224</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Emanuel</Teacher>
+	<Subject>Matemática</Subject>
+	<Students>2ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>225</Id>
+	<Activity_Group_Id>224</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Emanuel</Teacher>
+	<Subject>Matemática</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>226</Id>
+	<Activity_Group_Id>226</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Emanuel</Teacher>
+	<Subject>Matemática</Subject>
+	<Students>2ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>227</Id>
+	<Activity_Group_Id>226</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Emanuel</Teacher>
+	<Subject>Matemática</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>228</Id>
+	<Activity_Group_Id>228</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Emanuel</Teacher>
+	<Subject>Matemática</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>229</Id>
+	<Activity_Group_Id>228</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Emanuel</Teacher>
+	<Subject>Matemática</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>230</Id>
+	<Activity_Group_Id>228</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Emanuel</Teacher>
+	<Subject>Matemática</Subject>
+	<Students>1ª Série A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>231</Id>
+	<Activity_Group_Id>228</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Emanuel</Teacher>
+	<Subject>Matemática</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>232</Id>
+	<Activity_Group_Id>232</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Emanuel</Teacher>
+	<Subject>Matemática</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>233</Id>
+	<Activity_Group_Id>232</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Emanuel</Teacher>
+	<Subject>Matemática</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>234</Id>
+	<Activity_Group_Id>232</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Emanuel</Teacher>
+	<Subject>Matemática</Subject>
+	<Students>1ª Série B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>235</Id>
+	<Activity_Group_Id>232</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+</Activities_List>
+
+<Buildings_List>
+</Buildings_List>
+
+<Rooms_List>
+</Rooms_List>
+
+<Time_Constraints_List>
+<ConstraintBasicCompulsoryTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsoryTime>
+<ConstraintBreakTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Break_Times>12</Number_of_Break_Times>
+	<Break_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>14:25 - 15:10</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Terça-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Break_Time>
+	<Break_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Break_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBreakTimes>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>11</Activity_Id>
+	<Activity_Id>12</Activity_Id>
+	<Activity_Id>13</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>14</Activity_Id>
+	<Activity_Id>15</Activity_Id>
+	<Activity_Id>16</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>17</Activity_Id>
+	<Activity_Id>18</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>19</Activity_Id>
+	<Activity_Id>20</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>21</Activity_Id>
+	<Activity_Id>22</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>23</Activity_Id>
+	<Activity_Id>24</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>25</Activity_Id>
+	<Activity_Id>26</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>27</Activity_Id>
+	<Activity_Id>28</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>29</Activity_Id>
+	<Activity_Id>30</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>31</Activity_Id>
+	<Activity_Id>32</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>33</Activity_Id>
+	<Activity_Id>34</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>35</Activity_Id>
+	<Activity_Id>36</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>37</Activity_Id>
+	<Activity_Id>38</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>39</Activity_Id>
+	<Activity_Id>40</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>41</Activity_Id>
+	<Activity_Id>42</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>43</Activity_Id>
+	<Activity_Id>44</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>45</Activity_Id>
+	<Activity_Id>46</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>65</Activity_Id>
+	<Activity_Id>66</Activity_Id>
+	<Activity_Id>67</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>68</Activity_Id>
+	<Activity_Id>69</Activity_Id>
+	<Activity_Id>70</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>71</Activity_Id>
+	<Activity_Id>72</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>73</Activity_Id>
+	<Activity_Id>74</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>75</Activity_Id>
+	<Activity_Id>76</Activity_Id>
+	<Activity_Id>77</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>78</Activity_Id>
+	<Activity_Id>79</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>80</Activity_Id>
+	<Activity_Id>81</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>82</Activity_Id>
+	<Activity_Id>83</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>84</Activity_Id>
+	<Activity_Id>85</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>86</Activity_Id>
+	<Activity_Id>87</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>88</Activity_Id>
+	<Activity_Id>89</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>90</Activity_Id>
+	<Activity_Id>91</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>92</Activity_Id>
+	<Activity_Id>93</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>94</Activity_Id>
+	<Activity_Id>95</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>96</Activity_Id>
+	<Activity_Id>97</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>98</Activity_Id>
+	<Activity_Id>99</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>100</Activity_Id>
+	<Activity_Id>101</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>102</Activity_Id>
+	<Activity_Id>103</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>104</Activity_Id>
+	<Activity_Id>105</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>106</Activity_Id>
+	<Activity_Id>107</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>108</Activity_Id>
+	<Activity_Id>109</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>110</Activity_Id>
+	<Activity_Id>111</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>112</Activity_Id>
+	<Activity_Id>113</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>114</Activity_Id>
+	<Activity_Id>115</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>116</Activity_Id>
+	<Activity_Id>117</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>118</Activity_Id>
+	<Activity_Id>119</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>120</Activity_Id>
+	<Activity_Id>121</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>122</Activity_Id>
+	<Activity_Id>123</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>124</Activity_Id>
+	<Activity_Id>125</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>126</Activity_Id>
+	<Activity_Id>127</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>128</Activity_Id>
+	<Activity_Id>129</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>130</Activity_Id>
+	<Activity_Id>131</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>132</Activity_Id>
+	<Activity_Id>133</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>144</Activity_Id>
+	<Activity_Id>145</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>146</Activity_Id>
+	<Activity_Id>147</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>173</Activity_Id>
+	<Activity_Id>174</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>175</Activity_Id>
+	<Activity_Id>176</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>182</Activity_Id>
+	<Activity_Id>183</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Giliard</Teacher>
+	<Number_of_Not_Available_Times>42</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>14:25 - 15:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>15:10 - 15:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Valentina</Teacher>
+	<Number_of_Not_Available_Times>41</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>14:25 - 15:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Claudinete</Teacher>
+	<Number_of_Not_Available_Times>42</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>14:25 - 15:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>15:10 - 15:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Décio</Teacher>
+	<Number_of_Not_Available_Times>42</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>14:25 - 15:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>15:10 - 15:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Marilena</Teacher>
+	<Number_of_Not_Available_Times>41</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>14:25 - 15:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>17:40 - 18:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Antonio</Teacher>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>14:25 - 15:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>15:10 - 15:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Francielli</Teacher>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>14:25 - 15:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>15:10 - 15:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>J. Marcos</Teacher>
+	<Number_of_Not_Available_Times>7</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>14:25 - 15:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>15:10 - 15:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Patricia B.</Teacher>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>14:25 - 15:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>15:10 - 15:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Paulo</Teacher>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>14:25 - 15:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>15:10 - 15:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Renato</Teacher>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>14:25 - 15:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>15:10 - 15:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>18:25 - 19:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>19:10 - 19:55</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Verginia</Teacher>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>14:25 - 15:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>15:10 - 15:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Josemar</Teacher>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>14:25 - 15:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>15:10 - 15:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:55 - 17:40</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Emanuel</Teacher>
+	<Number_of_Not_Available_Times>14</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>19:55 - 20:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-feira</Day>
+		<Hour>20:40 - 21:25</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>14:25 - 15:10</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>15:10 - 15:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>15:55 - 16:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-feira</Day>
+		<Hour>16:40 - 16:55</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>186</Activity_Id>
+	<Activity_Id>187</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>189</Activity_Id>
+	<Activity_Id>190</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>191</Activity_Id>
+	<Activity_Id>192</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>193</Activity_Id>
+	<Activity_Id>194</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>195</Activity_Id>
+	<Activity_Id>196</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>197</Activity_Id>
+	<Activity_Id>198</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>199</Activity_Id>
+	<Activity_Id>200</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>201</Activity_Id>
+	<Activity_Id>202</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>203</Activity_Id>
+	<Activity_Id>204</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>205</Activity_Id>
+	<Activity_Id>206</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>207</Activity_Id>
+	<Activity_Id>208</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>209</Activity_Id>
+	<Activity_Id>210</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintActivitiesSameStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>65</Activity_Id>
+	<Activity_Id>68</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingTime>
+<ConstraintActivitiesSameStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>66</Activity_Id>
+	<Activity_Id>69</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingTime>
+<ConstraintActivitiesSameStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>67</Activity_Id>
+	<Activity_Id>70</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingTime>
+<ConstraintActivitiesSameStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>71</Activity_Id>
+	<Activity_Id>73</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingTime>
+<ConstraintActivitiesSameStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>72</Activity_Id>
+	<Activity_Id>74</Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesSameStartingTime>
+<ConstraintActivitiesPreferredStartingTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name></Teacher_Name>
+	<Students_Name></Students_Name>
+	<Subject_Name>Eletivas</Subject_Name>
+	<Activity_Tag_Name></Activity_Tag_Name>
+	<Duration></Duration>
+	<Number_of_Preferred_Starting_Times>1</Number_of_Preferred_Starting_Times>
+	<Preferred_Starting_Time>
+		<Preferred_Starting_Day>Sexta-feira</Preferred_Starting_Day>
+		<Preferred_Starting_Hour>14:25 - 15:10</Preferred_Starting_Hour>
+	</Preferred_Starting_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivitiesPreferredStartingTimes>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>217</Activity_Id>
+	<Activity_Id>218</Activity_Id>
+	<Activity_Id>219</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>220</Activity_Id>
+	<Activity_Id>221</Activity_Id>
+	<Activity_Id>222</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintTeachersMaxHoursContinuously>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Maximum_Hours_Continuously>2</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeachersMaxHoursContinuously>
+<ConstraintTeachersMaxGapsPerDay>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Max_Gaps>2</Max_Gaps>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeachersMaxGapsPerDay>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>224</Activity_Id>
+	<Activity_Id>225</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>226</Activity_Id>
+	<Activity_Id>227</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>228</Activity_Id>
+	<Activity_Id>229</Activity_Id>
+	<Activity_Id>230</Activity_Id>
+	<Activity_Id>231</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>4</Number_of_Activities>
+	<Activity_Id>232</Activity_Id>
+	<Activity_Id>233</Activity_Id>
+	<Activity_Id>234</Activity_Id>
+	<Activity_Id>235</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>11</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>12</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>13</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>14</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>15</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>16</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>17</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>18</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>19</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>20:40 - 21:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>20</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>21</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>22</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>23</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>24</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>25</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>26</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>27</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>20:40 - 21:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>28</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>29</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>30</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>31</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>32</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>33</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>34</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>35</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>36</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>37</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>38</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>39</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>40</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>41</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>42</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>43</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>44</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>45</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>46</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>65</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>66</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>67</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>68</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>69</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>70</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>71</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>72</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>73</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>74</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>75</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>76</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>77</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>78</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>79</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>80</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>81</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>82</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>83</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>84</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>85</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>86</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>87</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>88</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>89</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>20:40 - 21:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>90</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>91</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>92</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>93</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>94</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>95</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>96</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>97</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>98</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>99</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>101</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>102</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>103</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>104</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>105</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>106</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>107</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>108</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>109</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>20:40 - 21:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>110</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>20:40 - 21:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>111</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>112</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>113</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>114</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>115</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>116</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>20:40 - 21:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>117</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>20:40 - 21:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>118</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>119</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>120</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>121</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>122</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>123</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>124</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>125</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>126</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>127</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>20:40 - 21:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>128</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>129</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>130</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>131</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>132</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>133</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>134</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>135</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>136</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>137</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>138</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>139</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>140</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>20:40 - 21:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>141</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>142</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>143</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>20:40 - 21:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>144</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>145</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>146</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>147</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>154</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>173</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>20:40 - 21:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>174</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>175</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>176</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>182</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>183</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>186</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>187</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>188</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>189</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>20:40 - 21:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>190</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>191</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>192</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>193</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>194</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>195</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>196</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>197</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>20:40 - 21:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>198</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>199</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>20:40 - 21:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>200</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>201</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>202</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>203</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>204</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>205</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>206</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>207</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>208</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>20:40 - 21:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>209</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>210</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>217</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>218</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>219</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>220</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>15:55 - 16:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>221</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>222</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>15:10 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>223</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>224</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>225</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>226</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>227</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>228</Activity_Id>
+	<Preferred_Day>Segunda-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>229</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>17:40 - 18:25</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>230</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>231</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>16:55 - 17:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>232</Activity_Id>
+	<Preferred_Day>Terça-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>233</Activity_Id>
+	<Preferred_Day>Quinta-feira</Preferred_Day>
+	<Preferred_Hour>18:25 - 19:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>234</Activity_Id>
+	<Preferred_Day>Sexta-feira</Preferred_Day>
+	<Preferred_Hour>19:55 - 20:40</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>235</Activity_Id>
+	<Preferred_Day>Quarta-feira</Preferred_Day>
+	<Preferred_Hour>14:25 - 15:10</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+</Time_Constraints_List>
+
+<Space_Constraints_List>
+<ConstraintBasicCompulsorySpace>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsorySpace>
+</Space_Constraints_List>
+
+</fet>
